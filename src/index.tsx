@@ -24,7 +24,7 @@ createServer({
           title: 'House Fees',
           type: 'withdraw',
           category: 'house',
-          amount: 1000,
+          amount: 2000,
           createdAt: new Date('2022-6-1')
         }
       ]
